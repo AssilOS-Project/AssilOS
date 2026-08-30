@@ -12,7 +12,7 @@ AssilOS is released under BSD 3-Clause license, you can modify, sell, redistribu
 ![screenshot](SCREENSHOT.PNG)
 
 ### requirements
-- linux distros/BSD/macOS/windows
+- linux distros/BSD/macOS/windows/Android (via Termux)
 - CSM enabled
 - QEMU (recommanded)
 - virtualbox (opetional)
