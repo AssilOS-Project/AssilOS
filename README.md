@@ -1,12 +1,12 @@
 # AssilOS (Codenamed Aurès) 💾
-[![Made in Algeria](https://www.madeinalgeria.dev/badge/assilos.svg)](https://www.madeinalgeria.dev/projects/assilos) [![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) [![Made in Algeria](https://img.shields.io/badge/Made%20in-Algeria-green.svg)](https://en.wikipedia.org/wiki/Batna,_Algeria)
+[![Made in Algeria](https://www.madeinalgeria.dev/badge/assilos.svg)](https://www.madeinalgeria.dev/projects/assilos) [![License](https://img.shields.io/badge/License-BSD_3--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) [![Made in Algeria](https://img.shields.io/badge/Made%20in-Algeria-green.svg)](https://en.wikipedia.org/wiki/Batna,_Algeria)
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 
 
 AssilOS is monolithc boot-sector operating system that based on bootOS, is it not linux-based.
 
 ### license
-AssilOS is released under BSD 2-Clause license, you can modify, sell, redistribute under BSD 2-Clause terms, see [License](LICENSE).
+AssilOS is released under BSD 3-Clause license, you can modify, sell, redistribute under BSD 3-Clause terms, see [License](LICENSE).
 
 ### screenshot
 ![screenshot](SCREENSHOT.PNG)
@@ -32,7 +32,7 @@ AssilOS is released under BSD 2-Clause license, you can modify, sell, redistribu
 ### rules
 
 - you can: study, modify, distribute AssilOS (with requirements), use it in commercial products, use it for retro computing.
-- you cannot: remove copyright notice of nanochess or AssilOS Project, claim as your own, use it for illegal actions.
+- you cannot: remove copyright notice of nanochess or AssilOS Project, claim as your own, use it for illegal actions, use names and copyright holders name to endorse
 
 ### build instruction
 nasm -f bin os.asm -l os.lst -o os.img
