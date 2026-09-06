@@ -6,7 +6,7 @@
 AssilOS is monolithc boot-sector operating system that based on bootOS, is it not linux-based.
 
 ### license
-AssilOS is released under BSD 3-Clause license, you can modify, sell, redistribute under BSD 3-Clause terms, see [License](LICENSE).
+AssilOS is released under Apache 2.0 license, you can modify, sell, redistribute under Apache 2.0 terms, see [License](LICENSE).
 
 ### screenshot
 ![screenshot](SCREENSHOT.PNG)
@@ -32,7 +32,7 @@ AssilOS is released under BSD 3-Clause license, you can modify, sell, redistribu
 ### rules
 
 - you can: study, modify, distribute AssilOS (with requirements), use it in commercial products, use it for retro computing.
-- you cannot: remove copyright notice of nanochess or AssilOS Project, claim as your own, use it for illegal actions, use names and copyright holders name to endorse
+- you cannot: remove copyright notice of nanochess or AssilOS Project, claim as your own, use it for illegal actions, use names and copyright holders name to endorse, or using trademarked logo/names of AssilOS 
 
 ### build instruction
 nasm -f bin os.asm -l os.lst -o os.img
