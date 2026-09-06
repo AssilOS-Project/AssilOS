@@ -1,5 +1,5 @@
 # AssilOS (Codenamed Aurès) 💾
-[![Made in Algeria](https://www.madeinalgeria.dev/badge/assilos.svg)](https://www.madeinalgeria.dev/projects/assilos) [![License](https://img.shields.io/badge/License-BSD_3--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) [![Made in Algeria](https://img.shields.io/badge/Made%20in-Algeria-green.svg)](https://en.wikipedia.org/wiki/Batna,_Algeria)
+[![Made in Algeria](https://www.madeinalgeria.dev/badge/assilos.svg)](https://www.madeinalgeria.dev/projects/assilos) [![License](https://img.shields.io/badge/License-apache--2.0-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) [![Made in Algeria](https://img.shields.io/badge/Made%20in-Algeria-green.svg)](https://en.wikipedia.org/wiki/Batna,_Algeria)
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 
 
