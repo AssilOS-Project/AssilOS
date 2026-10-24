@@ -15,7 +15,7 @@ AssilOS is released under Apache 2.0 license, you can modify, sell, redistribute
 - linux distros/BSD/macOS/windows/Android (via Termux)
 - CSM enabled
 - QEMU (recommanded)
-- virtualbox (opetional)
+- virtualbox (optional)
 - DOSBox-X (optional)
 - NASM assembler
 
