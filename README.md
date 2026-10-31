@@ -1,12 +1,12 @@
-# AssilOS (Codenamed Aurès) 💾
+# AssilOS™ (Codenamed Aurès) 💾
 [![Made in Algeria](https://www.madeinalgeria.dev/badge/assilos.svg)](https://www.madeinalgeria.dev/projects/assilos) [![License](https://img.shields.io/badge/License-apache--2.0-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) [![Made in Algeria](https://img.shields.io/badge/Made%20in-Algeria-green.svg)](https://en.wikipedia.org/wiki/Batna,_Algeria)
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 
 
-AssilOS is monolithc boot-sector operating system that based on bootOS, is it not linux-based.
+AssilOS™ is monolithc boot-sector operating system that based on bootOS, is it not linux-based.
 
 ### license
-AssilOS is released under Apache 2.0 license, you can modify, sell, redistribute under Apache 2.0 terms, see [License](LICENSE).
+AssilOS™ is released under Apache 2.0 license, you can modify, sell, redistribute under Apache 2.0 terms, see [License](LICENSE).
 
 ### screenshot
 ![screenshot](SCREENSHOT.PNG)
@@ -20,7 +20,7 @@ AssilOS is released under Apache 2.0 license, you can modify, sell, redistribute
 - NASM assembler
 
 ### Can it run bootOS programs and bootOS games?
-- yes!, it can run programs or games because AssilOS is based on bootOS, you can get them from [nanochess](https://github.com/nanochess/)
+- yes!, it can run programs or games because AssilOS™ is based on bootOS, you can get them from [nanochess](https://github.com/nanochess/)
 - also, you can create your own programs or games (they must fit to 512-bytes!) 
 - avoid use DOS programs, as they won't fit into 512-bytes
 
